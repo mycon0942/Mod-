@@ -1,0 +1,5 @@
+1. Crie um repositorio no GitHub (github.com > New repository).
+2. Envie TODO o conteudo desta pasta (incluindo a pasta oculta .github).
+3. Aba "Actions" > "Build mod" > espere ficar verde.
+4. Abra a execucao > "Artifacts" > baixe SilentWatch-jar.
+5. Extraia o zip: o .jar vai na pasta mods do Minecraft 1.7.10 com Forge.
